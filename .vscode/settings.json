@@ -1,0 +1,17 @@
+{
+  "files.associations": {
+    "*.css": "tailwindcss"
+  },
+  "editor.quickSuggestions": {
+    "strings": "on"
+  },
+  "tailwindCSS.includeLanguages": {
+    "plaintext": "html"
+  },
+  "css.validate": false,
+  "tailwindCSS.emmetCompletions": true,
+  "liveServer.settings.port": "4000",
+  "liveServer.settings.host": "localhost",
+  "liveServer.settings.root": "/src",
+  "liveServer.settings.CustomBrowser": "chrome"
+}
